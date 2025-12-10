@@ -1,0 +1,5 @@
+psutil
+numpy
+scikit-learn    # optional if you train models
+joblib          # optional (save models)
+pandas         # optional (data manipulation)
